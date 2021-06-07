@@ -1,0 +1,5 @@
+to check the image
+//*[@class="previewbox-v2-container-2-lines"]/div/div/div//a/div/picture//img/@src
+
+2. short path
+//*[@class="imgcontainer greybottomborder20"]/picture//img/@src
